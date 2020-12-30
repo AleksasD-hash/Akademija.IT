@@ -1,0 +1,17 @@
+container {
+	align-content: center
+}
+
+.border {
+	border-width: 3px !important;
+}
+
+.btn-primary {
+	margin-top: 15px;
+}
+
+.pKMI {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-top: 20px;
+}
