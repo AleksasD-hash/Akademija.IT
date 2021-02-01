@@ -1,8 +1,0 @@
-h5::selection {
-	color: ghostwhite;
-	background-color: black;
-}
-
-p::selection {
-	color: red;
-}
