@@ -1,0 +1,12 @@
+.btn-sm {
+	background-color: dimgray;
+	color: gainsboro;
+}
+
+.border {
+	background-color: ghostwhite !important;
+}
+
+ul {
+	list-style-type: none;
+}
